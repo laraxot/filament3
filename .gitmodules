@@ -1,0 +1,3 @@
+[submodule "packages/sevendays-digital/filament-nested-resources"]
+	path = packages/sevendays-digital/filament-nested-resources
+	url = https://github.com/laraxot/filament-nested-resources.git
